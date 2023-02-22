@@ -1,0 +1,57 @@
+<users>
+  <user>
+    <id>1</id>
+    <name>John Doe</name>
+    <email>johndoe@example.com</email>
+    <age>28</age>
+    <gender>Male</gender>
+    <city>New York</city>
+    <country>USA</country>
+    <occupation>Software Developer</occupation>
+  </user>
+
+  <user>
+    <id>2</id>
+    <name>Jane Smith</name>
+    <email>janesmith@example.com</email>
+    <age>32</age>
+    <gender>Female</gender>
+    <city>London</city>
+    <country>UK</country>
+    <occupation>Marketing Manager</occupation>
+  </user>
+
+  <user>
+    <id>3</id>
+    <name>Bob Johnson</name>
+    <email>bobjohnson@example.com</email>
+    <age>45</age>
+    <gender>Male</gender>
+    <city>Los Angeles</city>
+    <country>USA</country>
+    <occupation>Business Owner</occupation>
+  </user>
+
+  <user>
+    <id>4</id>
+    <name>Alice Brown</name>
+    <email>alicebrown@example.com</email>
+    <age>26</age>
+    <gender>Female</gender>
+    <city>Paris</city>
+    <country>France</country>
+    <occupation>Graphic Designer</occupation>
+  </user>
+  
+  <user>
+    <id>5</id>
+    <name>Tom Wilson</name>
+    <email>tomwilson@example.com</email>
+    <age>34</age>
+    <gender>Male</gender>
+    <city>Sydney</city>
+    <country>Australia</country>
+    <occupation>Product Manager</occupation>
+  </user>
+</users>
+  

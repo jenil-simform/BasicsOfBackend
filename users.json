@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 28,
+      "gender": "Male",
+      "city": "New York",
+      "country": "USA",
+      "occupation": "Software Developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "age": 32,
+      "gender": "Female",
+      "city": "London",
+      "country": "UK",
+      "occupation": "Marketing Manager"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bobjohnson@example.com",
+      "age": 45,
+      "gender": "Male",
+      "city": "Los Angeles",
+      "country": "USA",
+      "occupation": "Business Owner"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "age": 26,
+      "gender": "Female",
+      "city": "Paris",
+      "country": "France",
+      "occupation": "Graphic Designer"
+    },
+    {
+      "id": 5,
+      "name": "Tom Wilson",
+      "email": "tomwilson@example.com",
+      "age": 34,
+      "gender": "Male",
+      "city": "Sydney",
+      "country": "Australia",
+      "occupation": "Product Manager"
+    }
+  ]
+}
